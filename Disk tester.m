@@ -4,7 +4,7 @@
 
 R=45; % Radius of the cycloidal drive 
 Rr=5; % Radius of the roller pins
-N=12; % Number of roller oins
+N=12; % Number of roller pins
 E=3;  % Eccentricity of the disk
 
 
